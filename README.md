@@ -56,9 +56,7 @@
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 yaman@yourdomain.com
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yaman-jaiswal/))
 
 ---
 
