@@ -27,22 +27,22 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [SQL Query Generator using Bedrock LLMs](https://github.com/YOUR_USERNAME/sql-query-generator)
+### 📊 [SQL Query Generator using Bedrock LLMs](https://github.com/yaman-GenAI/SQL_Query_Generator)
 > Converts user questions into SQL queries using Bedrock foundation models.
 
-### 💬 [GenAI-powered Chatbot](https://github.com/YOUR_USERNAME/genai-chatbot)
+### 💬 [GenAI-powered Chatbot](https://github.com/yaman-GenAI/GenAI-Chatbot)
 > Natural language chatbot built with Bedrock & LangChain.
 
-### 📄 [GenAI RAG Chatbot](https://github.com/YOUR_USERNAME/rag-doc-chatbot)
+### 📄 [GenAI RAG Chatbot](https://github.com/yaman-GenAI/rag-doc-chatbot)
 > Upload a document and ask questions — powered by LangChain RAG + Bedrock.
 
-### 🎫 [Bedrock Agentic AI - ServiceNow Ticketing](https://github.com/YOUR_USERNAME/bedrock-servicenow-agent)
+### 🎫 [Bedrock Agentic AI - ServiceNow Ticketing](https://github.com/yaman-GenAI/bedrock-servicenow-agent)
 > Create/update/delete ServiceNow tickets using Bedrock agents with natural language.
 
-### 🧩 [LangGraph Agentic AI - ServiceNow Ticketing](https://github.com/YOUR_USERNAME/langgraph-servicenow-agent)
+### 🧩 [LangGraph Agentic AI - ServiceNow Ticketing](https://github.com/yaman-GenAI/langgraph-servicenow-agent)
 > Advanced LangGraph-based ServiceNow ticket manager with memory and tool use.
 
-### 🤖 [Multi-Agent AI System](https://github.com/YOUR_USERNAME/multi-agent-genai)
+### 🤖 [Multi-Agent AI System](https://github.com/yaman-GenAI/multi-agent-genai)
 > Orchestrates multiple AI agents to solve complex tasks collaboratively.
 
 ---
