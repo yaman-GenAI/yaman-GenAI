@@ -56,7 +56,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yaman-jaiswal/))
+- 💼 [LinkedIn]([https://linkedin.com/in/yaman-jaiswal])
 
 ---
 
