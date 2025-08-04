@@ -81,7 +81,7 @@ I'm a **results-driven AI-ML Engineer** with **5+ years of experience** speciali
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavpoojary&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=00d9ff&text_color=333333&icon_color=00d9ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaman-GenAI&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=00d9ff&text_color=333333&icon_color=00d9ff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaman-GenAI&layout=compact&langs_count=8&theme=vue&bg_color=ffffff&title_color=00d9ff&text_color=333333"/>
 </div>
 
