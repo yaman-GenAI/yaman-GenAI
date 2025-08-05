@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **results-driven AI-ML Engineer** with **5+ years of experience** specializing in **Generative AI** and **cloud-native solutions**. I transform complex AI concepts into production-ready applications that drive business innovation and operational excellence.
+I'm a **results-driven AI-ML Engineer** with **3+ years of experience** specializing in **Generative AI** and **cloud-native solutions**. I transform complex AI concepts into production-ready applications that drive business innovation and operational excellence.
 
 **🎯 What I Do:**
 - Design and deploy **Generative AI systems** using advanced LLMs
